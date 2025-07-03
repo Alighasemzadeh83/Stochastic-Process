@@ -6,12 +6,12 @@
 
 # Stochastic Processes
   Poisson Processes <br>
-  Gaussian Processes,
-  Synchronous Processes,
+  Gaussian Processes <br>
+  Synchronous Processes <br>
   Gauss-Markov Processes
 
 # Markov Models
-  Markov Chains
+  Markov Chains <br>
   Hidden Markov Models (HMMs)
 
 # Sampling Methods
