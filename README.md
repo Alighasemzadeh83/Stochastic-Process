@@ -5,14 +5,14 @@
   A detailed review of essential statistics, laying the groundwork for understanding stochastic processes.
 
 # Stochastic Processes
-  ## Poisson Processes: Modeling random events over time.
-  ## Gaussian Processes: Non-parametric models for regression and classification.
-  ## Synchronous Processes: Exploration of sync processes in time-series.
-  ## Gauss-Markov Processes: Processes with Gaussian and Markovian properties.
+  Poisson Processes,
+  Gaussian Processes,
+  Synchronous Processes,
+  Gauss-Markov Processes
 
 # Markov Models
-  ## Markov Chains: Discrete-time stochastic processes with memoryless property.
-  ## Hidden Markov Models (HMMs): Models for systems with unobserved (hidden) states.
+  Markov Chains
+  Hidden Markov Models (HMMs)
 
 # Sampling Methods
   Techniques for sampling from stochastic processes and probability distributions.
