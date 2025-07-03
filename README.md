@@ -5,7 +5,7 @@
   A detailed review of essential statistics, laying the groundwork for understanding stochastic processes.
 
 # Stochastic Processes
-  Poisson Processes,
+  Poisson Processes <br>
   Gaussian Processes,
   Synchronous Processes,
   Gauss-Markov Processes
