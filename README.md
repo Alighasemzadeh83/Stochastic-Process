@@ -1,5 +1,5 @@
 # Stochastic Processes
-  This repository contains my studies and implementations related to stochastic processes. It includes:
+  This repository contains my coursework from the stochastic processes taught by Dr. Amir Najafi. It includes:
 
 # Statistical Foundations
   A detailed review of essential statistics, laying the groundwork for understanding stochastic processes.
